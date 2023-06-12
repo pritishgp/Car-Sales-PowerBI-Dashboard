@@ -24,7 +24,10 @@ Requirement Analysis:
 Data has been transformed using Power Query and then data is connected to Power BI and Star Schema Model with three tables joined with One to Many Relationship for data analysis purpose.
 
 Key Insights:
-
+1. Volkswagen has the highest market share in the market.
+2. BMW has the highest brand market value in Diesel Powered Engine Vehicle, Ford has highest brand market value in Petrol Powered Engine Vehicles and Toyota has highest brand market value in Hybrid Engine Vehicles.
+3. Tucson is the most succesful model of Hyundai. Similarly, 3 Series is for BMW, A3  is for Audi, Fiesta is for Ford, Yaris is for Toyota and Octavia is for Skoda.
+4. Sales Trend for this car manufacturers maintained itself from 2010 till 2016 but after that it started to fall sharply due to multiple economic and environment related factors.
 
 It was a great experience for me and amazing project to work upon. Huge Thanks to BrainyBi - YT for this dataset and his incredible Guidance.
 
