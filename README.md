@@ -6,7 +6,9 @@ I am presenting to you my new Power BI project I've worked upon recently. This p
 ![Car_Sales_DB_PG](https://github.com/pritishgp/Car-Sales-PowerBI-Dashboard/assets/133867934/39ae4444-62df-4b49-9db1-a322500c1121)
 
 Data Set - Car Sales of Norway Dataset from BrainyBi
+
 Tools Used - Micrososft Power BI
+
 Operations Performed - Data Gathering, Data Cleaning, Data Transformation, Data Visualization, Sharing Insisghts.
 
 Requirement Analysis:
